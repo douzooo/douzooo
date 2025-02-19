@@ -5,7 +5,7 @@ public class douzooo {
      private static final String GITHUB ="https://github.com/douzooo";
      
      public static void main(String[] args) {
-         System.out.println("I don'at wanna talk rn")
+         System.out.println("I don't wanna talk rn")
          System.exit(0)
      }
 }
