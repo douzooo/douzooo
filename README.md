@@ -1,4 +1,4 @@
-> ```java
+> `java
 public class douzooo {
      private static final String NAME = "Douzooo";
      private static final String ROLE = "Java Developer | Web Developer | Hacker";
@@ -9,5 +9,5 @@ public class douzooo {
          System.exit(0)
      }
 }
-```
+`
 
